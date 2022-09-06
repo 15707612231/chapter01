@@ -30,4 +30,7 @@ public class TestService {
     public void test(){
         System.out.println(password);
     }
+    public void say(){
+        System.out.println("hahaha say");
+    }
 }
