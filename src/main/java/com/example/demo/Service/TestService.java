@@ -32,5 +32,6 @@ public class TestService {
     }
     public void say(){
         System.out.println("hahaha say");
+        System.out.println("say hello");
     }
 }
