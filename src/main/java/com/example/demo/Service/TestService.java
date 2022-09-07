@@ -36,6 +36,6 @@ public class TestService {
         System.out.println("hezuze");
         System.out.println("hezuze222");
         System.out.println("pull test");
-        System.out.println("hezuze commit");
+        System.out.println("hezuze push");
     }
 }
