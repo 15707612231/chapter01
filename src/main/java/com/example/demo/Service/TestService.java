@@ -37,5 +37,6 @@ public class TestService {
         System.out.println("hezuze222");
         System.out.println("pull test");
         System.out.println("hezuze push");
+        System.out.println("520 666");
     }
 }
